@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_oatpp_project.dir/src/main.cpp.o -o my_oatpp_project  /usr/local/lib/oatpp-1.4.0/liboatpp.a -lpthread -latomic 
